@@ -9,7 +9,7 @@ TODO: TO run this code on your system:
 
 # Build and Test
 To Test My Project : 
-1)Test Two way binding of cells:You can Enter Data and give style , font color and alignments.Now check by clicking on each cell whether the properties you have assigned are highlighted as per excel.
+1)Test Two way binding of cells:You can Enter Data and give style , font color and alignments.Now check by clicking on each cell whether the properties you have assigned are highlighted as per excel.<br>
 2)Checking Formula Functionality :Take a Cell A1 and enter a numeric value like 10 in it. Now click on cell B1 and on formula bar write formula (A1 + 10) and hit enter . Check the value 20 will appear in B1 Cell.
 Now Also change value of A1 cell, hit enter and you will notice the value of B1 also gets changed.
 3)Test Column Resize Feature:Hover on any column Cell border , you will notice the cursor will change to Column-resize icon and hold the right click and drag it to right & Left and you will notice the size of Column will Change. 
