@@ -1,5 +1,5 @@
 # Introduction 
-TODO: This a Excel Clone project with features like 2 way Binding of Cells , Exel CRUD Operations , Column Resizing and Graph Detection Features. 
+TODO: This a Excel Clone project with features like 2 way Binding of Cells , Exel CRUD Operations , Column Resizing , Graph Detection Features and Sheet Management. 
 
 # Getting Started
 TODO: TO run this code on your system:
